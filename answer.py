@@ -13,5 +13,4 @@ def add(a,b):
 
     # Write simple code to add variable a and b
     output =a+b
-
     return output
